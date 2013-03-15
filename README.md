@@ -2,7 +2,9 @@
 
 Some simple programming exercises taken from the Head First Java book. The directories in this repository are organized by chapter.
 
-
+* [Chapter 4](https://github.com/UCSB-CS56-Conrad/cs56-tutorials-hfj#chapter-4)
+* [Chapter 10](https://github.com/UCSB-CS56-Conrad/cs56-tutorials-hfj#chapter-10)
+* [Chapter 13](https://github.com/UCSB-CS56-Conrad/cs56-tutorials-hfj#chapter-13)
 
 ## Chapter 4
 
@@ -43,21 +45,10 @@ Displays how to use static methods, in particular the Math class. The only examp
 
 Four GUI examples to demonstrate different layouts.
 
-* [Archive link](https://foo.cs.ucsb.edu/cs56/issues/0000074/)
-
 * Original Instructions
 
 > Write some code that illustrates each of the Layout manager examples that is shown on pp. 401-412, as well as the example alluded to in in the "there are no dumb questions" of turning off the layout manager and just placing every widget manually. 
 >
 Give the example GUIs names that correspond to the pages numbers in the book, such as GuiPage401, GuiPage402, etc.
 
-
-
-
-
-* [pg71-79](https://github.com/UCSB-CS56-Conrad/cs56-tutorials-hfj/tree/master/chapter4/pg71-79)
-* [pg80-86](https://github.com/UCSB-CS56-Conrad/cs56-tutorials-hfj/tree/master/chapter4/pg80-86)
-
-* [Chapter 4](https://github.com/UCSB-CS56-Conrad/cs56-tutorials-hfj/tree/master/chapter4)
-* [Chapter 10](https://github.com/UCSB-CS56-Conrad/cs56-tutorials-hfj/tree/master/chapter10)
-* [Chapter 13](https://github.com/UCSB-CS56-Conrad/cs56-tutorials-hfj/tree/master/chapter13)
+* [Archive link](https://foo.cs.ucsb.edu/cs56/issues/0000074/)
