@@ -4,7 +4,7 @@
 There are two samples in this directory, because previously, two different CS56 students or pairs 
 created these examples.
 
-That should be resolved by issue: #1
+That should be resolved by issue:  https://github.com/UCSB-CS56-Conrad/cs56-tutorials-hfj/issues/1
 
 A todo item is to look at both, figure out which is better, and/or incorporate the best aspects of both, and merge
 them into a single example.
