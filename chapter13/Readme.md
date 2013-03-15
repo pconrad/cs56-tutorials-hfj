@@ -1,4 +1,4 @@
-# cs56-tutorials-hfj/gui-examples
+# cs56-tutorials-hfj/chapter13
 
 Four GUI examples to demonstrate different layouts.
 
