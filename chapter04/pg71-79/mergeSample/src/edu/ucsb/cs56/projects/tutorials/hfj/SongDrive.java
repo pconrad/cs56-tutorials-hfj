@@ -10,7 +10,7 @@ package edu.ucsb.cs56.projects.tutorials.hfj;
    @see Song
 */
 
-public class SongTest
+public class SongDrive
 {
     public static void main (String [] args) 
     {

@@ -11,7 +11,7 @@ package edu.ucsb.cs56.projects.tutorials.hfj;
    @see Dog
 */
 
-public class DogTest
+public class DogDrive
 {
     public static void main(String [] args) 
     {

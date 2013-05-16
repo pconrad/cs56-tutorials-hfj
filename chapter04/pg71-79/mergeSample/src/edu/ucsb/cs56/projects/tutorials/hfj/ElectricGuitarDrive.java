@@ -10,7 +10,7 @@ package edu.ucsb.cs56.projects.tutorials.hfj;
    @see ElectricGuitar
 */
 
-public class ElectricGuitarTest 
+public class ElectricGuitarDrive
 {
     public static void main (String [] args) 
     {

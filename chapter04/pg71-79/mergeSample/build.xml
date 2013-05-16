@@ -11,10 +11,10 @@
   <property name="projectName" value="0000209" /> 
   <property name="javadocDest" value="${webRoot}/${projectName}/javadoc" /> 
   <property name="javadocURL" value="${webBaseUrl}/${projectName}/javadoc" /> 
-  <property name="mainClass" value="edu.ucsb.cs56.projects.tutorials.hfj.DogTest" />  
-  <property name="mainClass2" value="edu.ucsb.cs56.projects.tutorials.hfj.SongTest" />
-  <property name="mainClass3" value="edu.ucsb.cs56.projects.tutorials.hfj.LifeTest" />
-  <property name="mainClass4" value="edu.ucsb.cs56.projects.tutorials.hfj.ElectricGuitarTest" />
+  <property name="mainClass" value="edu.ucsb.cs56.projects.tutorials.hfj.DogDrive" />  
+  <property name="mainClass2" value="edu.ucsb.cs56.projects.tutorials.hfj.SongDrive" />
+  <property name="mainClass3" value="edu.ucsb.cs56.projects.tutorials.hfj.LifeDrive" />
+  <property name="mainClass4" value="edu.ucsb.cs56.projects.tutorials.hfj.ElectricGuitarDrive" />
   
   <target name="compile" description="compile my code">
     <mkdir dir="build" />
@@ -26,7 +26,7 @@
     </javac>
   </target>
   
-  <target name="run" depends="compile" description="displays options to run test files">
+  <target name="run" depends="compile" description="displays options to run driver files">
     <echo>
       To run the files, type these commands:
       ant runDog
@@ -36,19 +36,19 @@
     </echo>
   </target>
   
-  <target name="runDog" depends="compile" description="runs DogTest">
+  <target name="runDog" depends="compile" description="runs DogDrive">
     <java classname="${mainClass}" classpath="build" />
   </target>
   
-  <target name="runSong" depends="compile" description="runs SongTest">
+  <target name="runSong" depends="compile" description="runs SongDrive">
     <java classname="${mainClass2}" classpath="build" />
   </target>
   
-  <target name="runLife" depends="compile" description="runs LifeTest">
+  <target name="runLife" depends="compile" description="runs LifeDrive">
     <java classname="${mainClass3}" classpath="build" />
   </target>
   
-  <target name="runElectricGuitar" depends="compile" description="runs ElectricGuitarTest">
+  <target name="runElectricGuitar" depends="compile" description="runs ElectricGuitarDrive">
     <java classname="${mainClass4}" classpath="build" />
   </target>
   
@@ -83,8 +83,8 @@
       <mkdir dir="dist" />
       <jar destfile="dist/${projectName}.jar" basedir="build">           
 	<manifest>
-	  <attribute name="${mainClass}" value="DogTestDrive" />
-	  <attribute name="${mainClass2}" value="SongTestDrive" />
+	  <attribute name="${mainClass}" value="DogDrive" />
+	  <attribute name="${mainClass2}" value="SongDrive" />
 	</manifest>
       </jar>
     </target>

@@ -11,7 +11,7 @@ package edu.ucsb.cs56.projects.tutorials.hfj;
    @see Life
 */
 
-public class LifeTest {
+public class LifeDrive {
     public static void main (String [] args) {
 	
 	Life t = new Life();
