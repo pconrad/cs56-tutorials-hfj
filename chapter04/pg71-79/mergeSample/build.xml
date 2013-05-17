@@ -6,9 +6,9 @@
        edited by Eric Huang for project 01, Spring 2013  -->
   
   <property environment="env"/> <!-- load the environment variables --> 
-  <property name="webRoot" value="${env.HOME}/public_html/cs56/S11/issues" />
-  <property name="webBaseUrl" value="http://www.cs.ucsb.edu/~${env.USER}/cs56/S11/issues" />
-  <property name="projectName" value="0000209" /> 
+  <property name="webRoot" value="${env.HOME}/public_html/cs56/" />
+  <property name="webBaseUrl" value="http://www.cs.ucsb.edu/~${env.USER}/cs56" />
+  <property name="projectName" value="edu/ucsb/cs56/projects/tutorials/hfj" /> 
   <property name="javadocDest" value="${webRoot}/${projectName}/javadoc" /> 
   <property name="javadocURL" value="${webBaseUrl}/${projectName}/javadoc" /> 
   <property name="mainClass" value="edu.ucsb.cs56.projects.tutorials.hfj.DogDrive" />  
