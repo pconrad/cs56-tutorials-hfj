@@ -1,7 +1,9 @@
 # README: what is there to see?
 
 
-[javadoc link](http://www.cs.ucsb.edu/~eric_j_huang/cs56/S11/issues/0000209/javadoc/)
+[javadoc link](http://www.cs.ucsb.edu/~eric_j_huang/cs56/edu/ucsb/cs56/projects/tutorials/hfj/javadoc)
+
+Inside mergeSample:
 
 Dog: 
   A class that user can specify size and name of the dog, and is able to
@@ -17,4 +19,4 @@ Life:
 Song:
 	A class that has title and artist of a song with getters and setters
 	
-along with tests of each class
+along with Driver of each class
