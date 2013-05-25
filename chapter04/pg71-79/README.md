@@ -1,15 +1,22 @@
-# TODO: Merge these into one
+# README: what is there to see?
 
 
-There are two samples in this directory, because previously, two different CS56 students or pairs 
-created these examples.
+[javadoc link](http://www.cs.ucsb.edu/~eric_j_huang/cs56/edu/ucsb/cs56/projects/tutorials/hfj/javadoc)
 
-That should be resolved by issue:  https://github.com/UCSB-CS56-Conrad/cs56-tutorials-hfj/issues/1
+Inside mergeSample:
 
-A todo item is to look at both, figure out which is better, and/or incorporate the best aspects of both, and merge
-them into a single example.
-
-The final example should have a nice build.xml, main programs that run everything, etc.
-
-This is also referenced in an issue.  As part of resolving that issue, delete this README.md, or replace it with
-appropriate content describing what the examples on p71-79 are all about.
+Dog: 
+  A class that user can specify size and name of the dog, and is able to
+	determine the bark of the dog based on size
+	
+ElectricGuitar:
+	A class that user can specify the brand, number of pickups, and
+	whether a rock star uses that brand
+	
+Life:
+	A class that shows java is pass-by-value which means pass-by-copy
+	
+Song:
+	A class that has title and artist of a song with getters and setters
+	
+along with Driver of each class
