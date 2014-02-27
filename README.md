@@ -2,9 +2,9 @@
 
 Some simple programming exercises taken from the Head First Java book. The directories in this repository are organized by chapter.
 
-* [Chapter 4](https://github.com/UCSB-CS56-Conrad/cs56-tutorials-hfj#chapter-04)
-* [Chapter 10](https://github.com/UCSB-CS56-Conrad/cs56-tutorials-hfj#chapter-10)
-* [Chapter 13](https://github.com/UCSB-CS56-Conrad/cs56-tutorials-hfj#chapter-13)
+* [Chapter 4](https://github.com/UCSB-CS56-Projects/cs56-tutorials-hfj#chapter-04)
+* [Chapter 10](https://github.com/UCSB-CS56-Projects/cs56-tutorials-hfj#chapter-10)
+* [Chapter 13](https://github.com/UCSB-CS56-Projects/cs56-tutorials-hfj#chapter-13)
 
 ## Chapter 04
 
